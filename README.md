@@ -1,7 +1,5 @@
-
-<h1 align="center">Hi 👋, I'm Ravan Mammadov</h1>
+<h1 align="center">Hi 👋, I'm Ravan</h1>
 <h3 align="center">Full-Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravanm2003&label=Profile%20views&color=0e75b6&style=flat" alt="ravanm2003" /> </p>
 
@@ -12,6 +10,8 @@
 - 💬 Ask me about **C#**
 
 - 📫 How to reach me: **ravannm@code.edu.az**
+
+- 📄 Know about my experiences [file:///C:/Users/User/Downloads/RAVAN_MAMMADOV_CV.pdf](file:///C:/Users/User/Downloads/RAVAN_MAMMADOV_CV.pdf)
 
 - ⚡ Fun fact **I think I am funny**
 
