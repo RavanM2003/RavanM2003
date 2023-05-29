@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **ravannm@code.edu.az**
 
-- 📄 Know about my experiences [[https://bit.ly/SMTH-İNTERESTİNG-HERE](https://www.canva.com/design/DAFkUkOGO1g/w9bKlkqoXfMl0ownguqZZA/view?utm_content=DAFkUkOGO1g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://bit.ly/SMTH-İNTERESTİNG-HERE)
+- 📄 Know about my experiences [[https://bit.ly/SMTH-İNTERESTİNG-HERE](https://www.canva.com/design/DAFkUkOGO1g/w9bKlkqoXfMl0ownguqZZA/view?utm_content=DAFkUkOGO1g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](My Resume)
 
 - ⚡ Fun fact **I think I am funny**
 
