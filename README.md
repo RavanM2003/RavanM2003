@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **ravannm@code.edu.az**
 
-- 📄 Know about my experiences [My Resume](https://bit.ly/MyResumeIsHere)
+- 📄 Know about my experiences [CV](https://bit.ly/MyResumeIsHere)
 
 - ⚡ Fun fact **I think I am funny**
 
