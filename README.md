@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **ravannm@code.edu.az**
 
-- 📄 Know about my experiences [https://bit.ly/SMTH-İNTERESTİNG-HERE](https://bit.ly/SMTH-İNTERESTİNG-HERE)
+- 📄 Know about my experiences [https://bit.ly/SMTH-İNTERESTİNG-HERE](From Here)
 
 - ⚡ Fun fact **I think I am funny**
 
