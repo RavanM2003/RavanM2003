@@ -12,8 +12,6 @@
 
 - 📫 How to reach me: **ravannm@code.edu.az**
 
-- 📄 Know about my experiences [https://bit.ly/SMTH-İNTERESTİNG-HERE](https://bit.ly/SMTH-İNTERESTİNG-HERE)
-
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
