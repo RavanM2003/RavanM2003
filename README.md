@@ -7,7 +7,7 @@
   
 
 <div align="center">
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" align="center" height="200" width="300" />
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" align="center" height="400" width="600" />
 </div>  
   
 
@@ -112,6 +112,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=RavanM2003&show_icons=true&count_private=true&hide_border=true" align="left" />
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
