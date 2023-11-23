@@ -1,4 +1,6 @@
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" align="left" style="width: 100%" />  
+<div align="center">
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" align="center" style="width: 100%" />
+</div>  
   
 
 ### <div align="center">Hi 👋, I'm Ravan and i am Full-Stack Developer🚀</div>  
