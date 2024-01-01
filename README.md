@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Ravan and i am Full-Sack Developer</h3>
+<h3 align="center">Hi 👋, I'm Ravan Mammadov and i am Full-Sack Developer</h3>
 
 ###
 
