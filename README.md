@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravan Mammadov</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" align="right" height="400" width="600"/>
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" align="right" height="200" width="300"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravanm2003&label=Profile%20views&color=0034d1&style=flat-square" alt="ravanm2003" /> </p>
 
 - 🌱 I’m currently learning **Web Development**
