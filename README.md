@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Full-Stack Development**
 
-- 📫 How to reach me: <a onclick="return linkRedirecter(this)" target="_blank" class="ex_link" href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRvwTdlhdDqPtlpWQVTZwpGRhGJkxvnccvhfnmwnnnVvJgbMKTgGngzHSHcCvtZfttQLsCg">Ravan Mammadov</a>
+- 📫 How to reach me: <a href="mailto:revanmmmdov03@gmail.com">Ravan Mammadov</a>
 
 - ⚡ Fun fact **I think I am funny**
 
