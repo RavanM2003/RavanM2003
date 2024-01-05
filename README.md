@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Full-Stack Development**
 
-- 📫 How to reach me: **ravannm@code.edu.az**[dlvksodk]
+- 📫 How to reach me: **ravannm@code.edu.az[dlvksodk]**
 
 - ⚡ Fun fact **I think I am funny**
 
