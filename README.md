@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Full-Stack Development**
 
-- 📫 How to reach me: <a onclick="return linkRedirecter(this)" target="_blank" class="ex_link" href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZdkLFCvQGnNQrLvPKLZRKXNmcTxCfhxhbqfVsHWvLKcGflPWMNTJNPVDPfCsmdCqXqxtg">Web Migrations for this weekend</a>
+- 📫 How to reach me: <a onclick="return linkRedirecter(this)" target="_blank" class="ex_link" href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRvwTdlhdDqPtlpWQVTZwpGRhGJkxvnccvhfnmwnnnVvJgbMKTgGngzHSHcCvtZfttQLsCg">Ravan Mammadov</a>
 
 - ⚡ Fun fact **I think I am funny**
 
