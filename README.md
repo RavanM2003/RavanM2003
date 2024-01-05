@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Full-Stack Development**
 
-- 📫 How to reach me: **alvmvdl;vm[ravannm@code.edu.az]**
+- 📫 How to reach me: **[Ravan Mammadov](mailto:ravannm@code.edu.az?subject=[GitHub] Source Han Sans)**
 
 - ⚡ Fun fact **I think I am funny**
 
