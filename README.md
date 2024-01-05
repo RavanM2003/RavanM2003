@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Full-Stack Development**
 
-- 📫 How to reach me: [Ravan Mammadov](mailto:ravannm@code.edu.az?subject=[GitHub] Source Han Sans)
+- 📫 How to reach me: <a onclick="return linkRedirecter(this)" target="_blank" class="ex_link" href="[https://mail.google.com/a/umn.edu/#inbox/13f62a30179692eb](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZdkLFCvQGnNQrLvPKLZRKXNmcTxCfhxhbqfVsHWvLKcGflPWMNTJNPVDPfCsmdCqXqxtg)">Web Migrations for this weekend</a>
 
 - ⚡ Fun fact **I think I am funny**
 
