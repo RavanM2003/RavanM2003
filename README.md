@@ -4,7 +4,7 @@
 <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" align="right" height="200" width="300"/>
 - 🌱 I’m currently learning **React.js**
 - 💬 Ask me about **Full-stack Web Development**
-- 📫 How to reach me **revanmmmdov03@gmail.com**
+- 📫 How to reach me <href="mailto:revanmmmdov03@gmail.com">revanmmmdov03@gmail.com</a>
 - ⚡ Fun fact **I think I am funnt**
 
 <div> <a href="https://www.linkedin.com/in/ravan-mammadov-315302227" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
