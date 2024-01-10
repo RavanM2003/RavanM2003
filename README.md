@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Ravan Mammadov</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" align="right" height="200" width="300"/>
@@ -34,5 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravanm2003&show_icons=true&theme=dracula&title_color=ffffff&text_color=fffafa&bg_color=000000&cache_seconds=10&locale=en" alt="ravanm2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravanm2003&theme=dark" alt="ravanm2003" /></p>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
