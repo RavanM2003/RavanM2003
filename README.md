@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Free Projects<br>👯 I’m looking to collaborate on Web Development Projects<br>🌱 I’m currently learning React.js<br>💬 Ask me about Full-Stack Development<br>⚡ Fun fact:I think I am funny
+🔭 I’m currently working on Free Projects<br>👯 I’m looking to collaborate on Web Development Projects<br>🌱 I’m currently learning React.js<br>💬 Ask me about Full-Stack Development<br>⚡ Fun fact: I think I am funny
 
 
 ## 🌐 Socials:
