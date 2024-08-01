@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React Projects<br>🌱 I’m currently learning React.js<br>💬 Ask me about Full-Stack Web Development<br>⚡ Fun fact: I Think I am Funny
+🔭 I’m currently working on React Projects<br>🌱 I’m currently learning React.js<br>💬 Ask me about Full-Stack Web Development<br>⚡ Fun fact : I Think I am Funny
 
 
 ## 🌐 Socials:
